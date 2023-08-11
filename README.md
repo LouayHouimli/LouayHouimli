@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LouayHouimli/LouayHouimli/output/snake.svg" alt="Snake animation" />
+
 ![My last played song](https://spotify-recently-played-readme.vercel.app/api?user=mn7zmvqppuen0lnwt8fi3nvib&count=1)
 ###
