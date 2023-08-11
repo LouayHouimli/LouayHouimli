@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
 </div>
-###
+
 
 ![My last played song](https://spotify-recently-played-readme.vercel.app/api?user=mn7zmvqppuen0lnwt8fi3nvib&count=1)
 
