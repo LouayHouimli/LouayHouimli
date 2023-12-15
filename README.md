@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Louay and I'm a Junior Front End Developer from Tunisia 🇹🇳</h2>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0S6NUB)
 
 ###
 
@@ -42,7 +41,7 @@
 
 
 
-![My last played song](https://spotify-recently-played-readme.vercel.app/api?user=mn7zmvqppuen0lnwt8fi3nvib&count=1)
+![My last played song](https://spotify-recently-played-readme.vercel.app/api?user=mn7zmvqppuen0lnwt8fi3nvib&count=1) <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0S6NUB)
 
 ###
